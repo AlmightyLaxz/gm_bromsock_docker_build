@@ -1,5 +1,5 @@
 # gm_bromsock_docker_build
-A docker image for building gm_bromsock
+A docker image for building gm_bromsock, using Ubuntu 16.04 as a base image
 
 ## Building the image
 
